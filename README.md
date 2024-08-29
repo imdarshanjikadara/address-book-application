@@ -20,8 +20,6 @@ This is a simple console-based Address Book application written in C#. It allows
 
 To get started with this project, first clone the repository to your local machine:
 
-```bash
-git clone https://github.com/yourusername/AddressBook.git
-cd AddressBook
-
-### Build and Run
+  ```bash
+  git clone https://github.com/yourusername/AddressBook.git
+  cd AddressBook
