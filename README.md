@@ -54,4 +54,4 @@ Follow the prompts in the console to interact with the application.
 Contributions are welcome! If you have suggestions for improvements or bug fixes, please submit a pull request or open an issue on GitHub.
 
 ### License
-This project is licensed under the MIT License. See the (LICENSE)[https://github.com/imdarshanjikadara/address-book-application/blob/dbe08b62453f00b53bc41cafadfc21b929c5d74c/LICENSE.md] file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/imdarshanjikadara/address-book-application/blob/dbe08b62453f00b53bc41cafadfc21b929c5d74c/LICENSE.md) file for details.
